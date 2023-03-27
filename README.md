@@ -1,4 +1,4 @@
-# 拼多多恶意行为分析
+# 拼多多恶意行为分析报告
 Maybe the most detailed analysis of Pinduoduo's malicious code.
 English version see [English version](report_en.pdf)
 
