@@ -1,4 +1,4 @@
-# 拼多多恶意行为分析报告
+# 拼多多恶意行为分析报告 Analysis Report of PDD backdoors
 Maybe the most detailed analysis of Pinduoduo's malicious code.
 English version see [English version](report_en.pdf)
 
